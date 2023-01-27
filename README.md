@@ -1,4 +1,4 @@
-##Travel Agency Management Project.
+## Travel Agency Management Project.
 
 Built a fully normalized Travel Agency Database from scratch with multiple meaningful relationships between various entities, using Oracle with PHP.Wrote queries in MySQL and implemented a GUI through which the user can easily store, manage, and retrieve useful data related to their booking with the Agency.
 
