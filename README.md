@@ -1,5 +1,4 @@
 ## Travel Agency Management Project.
-
 Built a fully normalized Travel Agency Database from scratch with multiple meaningful relationships between various entities, using Oracle with PHP.Wrote queries in MySQL and implemented a GUI through which the user can easily store, manage, and retrieve useful data related to their booking with the Agency.
 
 Utilizes knowledge of SQL, PHP, Oracle, Data Normalization, Relational Databases.  
@@ -16,21 +15,30 @@ Through this database, we are able to store and manage various details of a trip
 Through our GUI for this database application, the user is able to count and retrieve information of the Employees, Customers, Hotels and Attractions in the database; insert a new customer to the database; update employee information; delete an existing customer; user can make a selection and retrieve tuples between a choice of 5 tables and using user-chosen attribute and value combination; find available hotels that a customer can stay in; find the city by searching a particular attraction; find the number of customers staying in All hotels; find the customers with more than one piece of luggage; find the average hotel rates of locations above the overall hotel rate average and find customers who have trips for all available cities.
 For this project we have used UBC’s CPSC department’s Oracle database system with PHP.
 
-## Final Queries
+## Implemented Queries
 Here are the queries we’ve implemented:
+
 [x] Insert: Insert a new Customer
+
 [x] Delete: Delete an existing Customer
+
 [x] Update: Update an Employee’s info
    
 [x] Selection: Selection on user selected table and attribute-value pair
 (Perform a selection on 6 tables and using user-selected attribute-value
 combinations)
+
 [x] Projection: Find hotels from a user entered City
+
 [x] Join: Find the City of an Attraction from its coordinates
+
 [x] Aggregation With Group By: Find the number of customers visiting all Cities that
 have been visited
+
 [x] Aggregation With Having: Find customers who are bringing more than a single
 piece of luggage
+
 [x] Nested Aggregation With Group By: Find Hotels whose rates are greater than the
 average rate of hotels
+
 [x] Division: Find Customers who have stayed at all available Hotels.
